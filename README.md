@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather-Widget
 =======
 # React + Vite
