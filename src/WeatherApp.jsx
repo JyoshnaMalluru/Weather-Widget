@@ -17,7 +17,7 @@ export default function WeatherApp() {
     }
     return(
         <div style={{textAlign: "center"}}>
-            <h2>Weather App by Delta</h2>
+            <h1 style={{color: "gray",fontFamily:"sans-serif"}}>Weather Widget</h1>
             <SearchBox updateInfo={updateInfo}/>
             <InfoBox info={weatherInfo}/>
         </div>
